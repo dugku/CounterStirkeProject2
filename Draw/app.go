@@ -1,6 +1,6 @@
 package Draw
 
-func run() {
+func Run() {
 	for {
 		updategrahics()
 	}
